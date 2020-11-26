@@ -16,4 +16,4 @@ serve -s docs
 
 5- Use your default browser to paste the link. 
 
-6- Once you have opened the app, you can use it to search for books in google books and save them to your BookShelf.
+6- Once the app is running, you can use it to search for books in google books and save them to your BookShelf.
