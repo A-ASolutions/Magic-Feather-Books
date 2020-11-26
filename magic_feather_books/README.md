@@ -5,7 +5,7 @@ Installation:
 2-Unzip the file and use the terminal to navigate to the unzipped file. 
 3- Run the following commands : 
 npm install -g serve
-serve -s dist 
+serve -s docs 
 4- The link of the local server will be copied to your clipboard. 
 5- Use your default browser to paste the link. 
 6- Once you have opened the app, you can use it to search for books in google books and save them to your BookShelf.
